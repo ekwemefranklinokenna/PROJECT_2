@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#FFF;
+	background-image:url(IMAGE/images3.jpg);
+	background-size:cover;
+	}
+
+
+
+#menu{
+	height:80px;
+	width:100%;
+	background-color:#999;
+	border-radius: 0px 0px 0px 50px;
+	
+}
+
+#box2{
+	height:350px;
+	width:300px;
+	background-color:rgba(122 103 104 0.3);
+	
+	
+	}
+#submitid{
+	float:right;
+	width:85px;
+    height:35px;
+    border-radius: 30px;
+    font-size:16px;
+    font-weight: bold;
+
+    }
+#submitid:hover{
+color:green;
+background-color:rgb(255, 255, 0);
+}
+	
+	#box1{
+	height:400px;
+	width:350px;
+	background-color:rgba(180, 150, 104, 0.5);
+	padding:10px;
+	margin-top:80px;
+	margin-right:40px;
+	margin-left:500px;
+	border-radius: 10px 10px 10px 10px;
+	}
+ h1{
+	 text-align:center;
+	 color:#F00
+	 
+	 }
+h2{
+	font-family:"Lucida Console", Monaco, monospace;
+	color:#00F;
+	font-style:italic
+	
+	}
+#inputid{
+	width:300px;
+	height:22px;
+	border-radius: 50px 50px 50px 50px;
+	
+	
+	}
+#signupLink{
+	float:left;
+	font-size:16px;
+	text-decoration:none;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#FFF;
+    font-style:italic;
+    font-weight: bold
+
+	}
+h4{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	color:rgb(255, 255, 0);
+	font-style:italic
+}
+label{
+	color:#FFF
+    }
+    a{
+        text-decoration: none
+    }
+h4:hover{
+color:rgb(255, 0, 43);
+}
+h3:hover{
+    color:rgb(255, 0, 43)
+}
