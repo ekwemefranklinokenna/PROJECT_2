@@ -7,7 +7,7 @@
 </head>
    
 <body>
-     <div id="menu"><h2>WEBAPP:NAME</h2></div>
+     
       <div id="box1">
             <div id="box2"><h1>Login</h1><hr />
               <form>
